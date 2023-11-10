@@ -152,8 +152,6 @@ export default {
     PesosH3,
     PesosH4,
     TesteP,
-
-
 },
 
   data () {

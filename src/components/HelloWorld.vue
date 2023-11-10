@@ -95,9 +95,7 @@
     </template>
   </v-data-table>
 </template>
-    <!-- </v-data-table>
-  </div>
-</template> -->
+
 
 <script>
 export default {
