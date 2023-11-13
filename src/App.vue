@@ -76,7 +76,7 @@
           v-model="tabs"
           centered
           dark
-          background-color="purple accent-43"
+          background-color="purple accent-4"
           show-arrows
         >
         <v-tabs-slider color="yellow lighten-1"></v-tabs-slider>
@@ -125,7 +125,7 @@
     </v-card>
 
 
-    <teste-p/>
+
 
 
 
@@ -138,9 +138,6 @@ import HelloWorld from './components/HelloWorld';
 import PesosH2 from './components/PesosH2.vue';
 import PesosH3 from './components/PesosH3.vue';
 import PesosH4 from './components/PesosH4.vue';
-import TesteP from './components/TesteP.vue';
-
-
 
 
 export default {
@@ -151,7 +148,6 @@ export default {
     PesosH2,
     PesosH3,
     PesosH4,
-    TesteP,
 },
 
   data () {
