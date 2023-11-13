@@ -17,6 +17,7 @@
           @change="handleCheckboxChange(item, 'um')"
           on-icon="mdi-check-circle-outline"
           off-icon="mdi-checkbox-blank-circle-outline"
+          color="yellow darken-1"
         ></v-checkbox>
       </td>
       <td>
@@ -26,6 +27,7 @@
           @change="handleCheckboxChange(item, 'dois')"
           on-icon="mdi-check-circle-outline"
           off-icon="mdi-checkbox-blank-circle-outline"
+          color="yellow darken-1"
         ></v-checkbox>
       </td>
       <td>
@@ -35,6 +37,7 @@
           @change="handleCheckboxChange(item, 'tres')"
           on-icon="mdi-check-circle-outline"
           off-icon="mdi-checkbox-blank-circle-outline"
+          color="yellow darken-1"
         ></v-checkbox>
       </td>
       <td>
@@ -44,6 +47,7 @@
           @change="handleCheckboxChange(item, 'quatro')"
           on-icon="mdi-check-circle-outline"
           off-icon="mdi-checkbox-blank-circle-outline"
+          color="yellow darken-1"
         ></v-checkbox>
       </td>
       <td>
@@ -53,6 +57,7 @@
           @change="handleCheckboxChange(item, 'cinco')"
           on-icon="mdi-check-circle-outline"
           off-icon="mdi-checkbox-blank-circle-outline"
+          color="yellow darken-1"
         ></v-checkbox>
       </td>
       <td>
@@ -62,6 +67,7 @@
           @change="handleCheckboxChange(item, 'seis')"
           on-icon="mdi-check-circle-outline"
           off-icon="mdi-checkbox-blank-circle-outline"
+          color="yellow darken-1"
         ></v-checkbox>
       </td>
       <td>
@@ -71,6 +77,8 @@
           @change="handleCheckboxChange(item, 'sete')"
           on-icon="mdi-check-circle-outline"
           off-icon="mdi-checkbox-blank-circle-outline"
+          color="yellow darken-1"
+          disable-sort
         ></v-checkbox>
       </td>
       <td>
@@ -80,6 +88,7 @@
           @change="handleCheckboxChange(item, 'oito')"
           on-icon="mdi-check-circle-outline"
           off-icon="mdi-checkbox-blank-circle-outline"
+          color="yellow darken-1"
         ></v-checkbox>
       </td>
       <td>
@@ -89,6 +98,7 @@
           @change="handleCheckboxChange(item, 'nove')"
           on-icon="mdi-check-circle-outline"
           off-icon="mdi-checkbox-blank-circle-outline"
+          color="yellow darken-1"
         ></v-checkbox>
       </td>
     </tr>

@@ -67,7 +67,7 @@
 
 
     <v-card 
-    class="mx-auto mt-10 rounded"
+    class="mx-auto mt-10 rounded-lg"
     width="800px">
 
    
